@@ -1,0 +1,57 @@
+* {
+    font-family: 맑은고딕;
+    font-weight: bold;
+}
+ 
+#wrap {
+    width: 400px;
+    height: 300px;
+    border-radius: 5px;
+    position: absolute;
+    top: 300px;
+    left: 35%;
+}
+ 
+.login_form {
+    padding: 20px 50px;
+}
+ 
+input {
+    margin-bottom: 14px;
+    width: 290px;
+    height: 30px;
+    font-size: 16px;
+    border: lightgray;
+    opacity: 0.5;
+}
+input:focus {
+    margin-bottom: 14px;
+    width: 290px;
+    height: 30px;
+    font-size: 16px;
+    border: lightgray;
+    opacity: 1;
+}
+ 
+button {
+    width: 294px;
+    height: 50px;
+    font-size: 16px;
+    padding: 10px 20px;
+    background-color: #fff;
+    border: 1px solid whitesmoke;
+    opacity: 0.5;
+}
+
+body {
+    background-image: url(./boat_mountains_lake_135258_2560x1080.jpg);
+}
+
+
+a {
+    margin-top: 5px;
+    padding-top: 5px;
+    color: black;
+    text-decoration-line: none;
+   
+}
